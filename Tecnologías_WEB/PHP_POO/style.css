@@ -1,0 +1,20 @@
+body {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.form {
+  border: 2px solid white;
+  padding: 0px 30px 30px 30px;
+}
+div {
+  margin-bottom: 20px;
+}
+.seguros {
+  display: flex;
+  justify-content: space-between;
+}
+
+.tarjetas {
+  width: 200px;
+}
