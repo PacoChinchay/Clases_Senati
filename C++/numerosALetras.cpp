@@ -2,9 +2,9 @@
 
 using namespace std;
 
-string unidades[] = {"", "uno", "dos", "tres", "cuatro", "cinco", "seis", "siete"};
-string especiales[] = {"diez", "once", "doce", "trece", "catorce", "quince", "dieciséis", "diecisiete","dieciocho", 
-						"deicinueve", "veintidós", "veintitrés", "veintiséis"};
+string unidades[] = {"", "uno", "dos", "tres", "cuatro", "cinco", "seis", "siete", "ocho", "nueve"};
+string especiales[] = {"diez", "once", "doce", "trece", "catorce", "quince", "diecisï¿½is", "diecisiete","dieciocho", 
+						"deicinueve", "veintidï¿½s", "veintitrï¿½s", "veintisï¿½is"};
 string decenas[] ={"", "diez", "veinte", "treinta", "cuarenta", "cincuenta", "sesenta", "setenta", "ochenta", "noventa"};
 
 string conversion(int numero) {
@@ -22,7 +22,7 @@ string conversion(int numero) {
 			return decenas[decena] + " y " + unidades[unidad];
 		}
 	} else {
-		cout << "Número fuera de rango";
+		cout << "Nï¿½mero fuera de rango";
 	}
 }
 
@@ -30,9 +30,9 @@ int main() {
 		setlocale(LC_ALL, "");
 	
 		int numero;
-		cout << "Ingrese un número entre 0 y 99: ";
+		cout << "Ingrese un nï¿½mero entre 0 y 99: ";
 		cin >> numero;
 		
-		cout << "El número " << numero << " en letras es: " << conversion(numero) << endl;
+		cout << "El nï¿½mero " << numero << " en letras es: " << conversion(numero) << endl;
 	return 0;
 }
