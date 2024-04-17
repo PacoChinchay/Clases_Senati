@@ -33,9 +33,8 @@ C++ es un lenguaje de programación de propósito general, de alto nivel y multi
 En resumen, C++ es un lenguaje de programación versátil y potente que se utiliza en una amplia variedad de campos debido a su eficiencia, velocidad y flexibilidad.
 
 ## Requisitos
-Para trabajar en este proyecto, necesitarás lo siguiente:
 
-- **JDK (Java Development Kit)**: Es un kit de desarrollo para Java necesario para ejecutar Greenfoot. Puedes descargarlo desde la página oficial de Oracle.
+- Dev-C++ instalado en tu sistema.
 
 ## Uso
 

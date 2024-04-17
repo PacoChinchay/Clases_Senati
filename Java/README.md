@@ -33,8 +33,9 @@ Java es un lenguaje de programación de propósito general, orientado a objetos 
 En conclusión, Java es un lenguaje de programación versátil y potente que se utiliza en una amplia gama de aplicaciones y entornos de desarrollo. Su portabilidad, seguridad y robustez lo convierten en una opción popular para desarrolladores de todo el mundo. Si estás buscando un lenguaje de programación que sea flexible, confiable y ampliamente compatible, Java es una excelente opción.
 
 ## Requisitos
+Para trabajar en este proyecto, necesitarás lo siguiente:
 
-- Dev-C++ instalado en tu sistema.
+- **JDK (Java Development Kit)**: Es un kit de desarrollo para Java necesario para ejecutar Greenfoot. Puedes descargarlo desde la página oficial de Oracle.
 
 ## Uso
 
