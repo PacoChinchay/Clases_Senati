@@ -9,7 +9,7 @@ Paco Chinchay (pacoDev)
 C++ es un lenguaje de programación de propósito general, de alto nivel y multiparadigma. Fue creado como una extensión del lenguaje de programación C, con añadidos de programación orientada a objetos, facilitando así la abstracción de datos y la reutilización de código. Es un lenguaje potente y versátil, utilizado en una amplia gama de aplicaciones, desde sistemas operativos hasta aplicaciones de escritorio y juegos.
 
 # Características Principales:
-Orientación a Objetos: C++ soporta programación orientada a objetos, permitiendo la creación de clases, herencia, polimorfismo, encapsulamiento, y otras características fundamentales de la POO.
+- Orientación a Objetos: C++ soporta programación orientada a objetos, permitiendo la creación de clases, herencia, polimorfismo, encapsulamiento, y otras características fundamentales de la POO.
 
 - Eficiencia: C++ es conocido por su eficiencia y velocidad de ejecución. Permite un control cercano del hardware y la gestión de memoria, lo que lo hace adecuado para aplicaciones donde el rendimiento es crítico.
 
