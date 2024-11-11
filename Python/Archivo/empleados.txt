@@ -1,0 +1,2 @@
+EMP1, paco chicnhay, 26/01/2002, desarrollador, 4000
+EMP2, juan, 30/12/2002, administrador, 3000
